@@ -1,0 +1,42 @@
+.card {
+        width: 319px;
+        height: 590px;
+        border: 1px solid #d3d3d3;
+        box-shadow: 7px 7px 5px #d3d3d3;
+        background: #7CFC00;
+        border-radius: 5px;
+        margin-left: 500px;
+}
+#speciality {
+              font-style: italic;
+}
+.details {
+          font-weight: bold;
+}
+.headline {
+            padding: 0px 0px 4px 8px;
+}
+#list {
+        list-style-type: none;
+        padding-left: 1px;
+}
+#credit {
+          font-size: 13px;
+          padding: 0px 8px 8px 8px;
+}
+.picture {
+          width: 300px;
+          height: 200px;
+          padding: 0px 8px 0px 8px;
+          border-radius: 20px;
+}
+.content {
+          width: 290px;
+          height: 270px;
+          border: 1px solid #d3d3d3;
+          border-radius: 4px;
+          background: #a3876a;
+          margin-left: 8px;
+          padding:0px 0px 4px 8px;
+          font-size: 13px;
+}
